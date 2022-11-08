@@ -14,8 +14,8 @@ book:
     - name: Jane Doe
       affiliations:
         - name: NOAA Fisheres
-          department: Northwest Fisheries Science Center
-    - name: Eva Nováková
+          department: Southeast Fisheries Science Center
+    - name: JJ
       institute: test
       affiliations:
         - name: NOAA Fisheries
